@@ -354,6 +354,7 @@ body{
    width: 640px;
    height: 48px; 
    border: none;
+   padding-left: 20px;
 }
 .subscribe{
    width: 186px;
