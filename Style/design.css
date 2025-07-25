@@ -451,3 +451,7 @@ nav ul li a:hover{
    background-color: #000000;
    font-size: 15px;
 }
+input:focus{
+    color: #E95A08;
+    outline-color: #E95A08;
+}
